@@ -3,6 +3,7 @@
 ### Support My Work ☕
 If you like my patches and want to support me, you can buy me a coffee!
 
-[![Buy Me a Coffee](https://shields.io)](https://www.buymeacoffee.com/MetroCity)
+<a href="https://buymeacoffee.com" target="_blank"><img src="https://buymeacoffee.com" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 
